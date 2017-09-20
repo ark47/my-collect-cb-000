@@ -8,7 +8,7 @@ def my_collect(array)
   arr
 end
 
-# def hello(array)
+# def my_collect(array)
 #   i = 0
 #   collection = []
 #   while i < array.length
@@ -19,5 +19,3 @@ end
 #   collection
 #
 # end
-#
-# hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
